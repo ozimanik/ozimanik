@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ozimanik
+- 👀 I’m interested in .NET
+- 🌱 I’m currently learning DevOps Management
+- 📫 How to reach me ozanitm@gmail.com
